@@ -1,0 +1,13 @@
+# dependencies
+node_modules
+
+# build
+main.js
+*.js.map
+
+# obsidian
+.obsidian
+
+# misc
+.DS_Store
+*.local

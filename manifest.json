@@ -1,0 +1,10 @@
+{
+  "id": "triangle-graph-view",
+  "name": "Triangle Graph View",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "A graph view with triangle grid snapping and directional edge animations.",
+  "author": "You",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}
